@@ -1,0 +1,7 @@
+"Sprite"
+{
+	"$spriteorigin" "[ 0.50 0.50 ]"
+	"$basetexture" "custom/$"
+	"$spriteorientation" "vp_facing_upright"
+	"$translucent" "1"
+}
